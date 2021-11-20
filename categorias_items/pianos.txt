@@ -1,0 +1,90 @@
+<hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\piano_vertical.png">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">PV0001</p>
+                                    <p class="inf_align">Piano Vertical</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$3.600,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/piano_vertical.png','Piano Vertical','$3.600,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\piano_espineta.png">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">PE0002</p>
+                                    <p class="inf_align">Piano Espineta</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$1.500,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/piano_espineta.png','Piano Espineta','$1.500,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\piano_consola.png">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">PC0003</p>
+                                    <p class="inf_align">Piano de Consola</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$1.500,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/piano_consola.png','Piano de Consola','$1.500,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\piano_estudio.png">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">PDE004</p>
+                                    <p class="inf_align">Piano de Estudio</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$200,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/piano_estudio.png','Piano de Estudio','$200,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\piano_media_cola.png">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">PMC005</p>
+                                    <p class="inf_align">Piano de Media Cola</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$4.000,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/piano_media_cola.png','Piano de Media Cola','$4.000,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>

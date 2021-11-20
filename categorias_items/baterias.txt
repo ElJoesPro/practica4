@@ -1,0 +1,90 @@
+<hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\bateria_roja.PNG">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">BIG001</p>
+                                    <p class="inf_align">Batería Infantil de Gear4music</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$92,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/bateria_roja.PNG','Batería Infantil de Gear4music','$92,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\bateria_negra.PNG">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">BPTCG2</p>
+                                    <p class="inf_align">Batería de Principiante BDK-1 de Gear4music</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$240,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/bateria_negra.PNG','Batería de Principiante BDK-1 de Gear4music','$240,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\bateria_abedul.PNG">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">BCA003</p>
+                                    <p class="inf_align">Batería Cocktail de Abedu</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$276,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/bateria_abedul.PNG','Batería Cocktail de Abedu','$276,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\bateria_celeste.PNG">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">BTSCE04</p>
+                                    <p class="inf_align">Batería Tama Superstar Classic Exotix</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$1.218,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/bateria_celeste.PNG','Batería Tama Superstar Classic Exotix','$1.218,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\bateria_dorada.PNG">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">BPRP005</p>
+                                    <p class="inf_align">Batería Pearl Reference Pure 22</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$4.370,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/bateria_dorada.PNG','Batería Pearl Reference Pure 22','$4.370,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>

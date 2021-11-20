@@ -1,0 +1,90 @@
+<hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\fender-stratocaster.png">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">GFS001</p>
+                                    <p class="inf_align">Guitarra Fender Stratocaster</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$900,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/fender-stratocaster.png','Guitarra Fender Stratocaster','$900,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\fender_jaguar.png">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">GFJ002</p>
+                                    <p class="inf_align">Guitarra Fender Jaguar</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$830,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/fender_jaguar.png','Guitarra Fender Jaguar','$830,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\gibson_flying.jpg">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">GGFV03</p>
+                                    <p class="inf_align">Guitarra Gibson Flying V</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$250,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/gibson_flying.jpg','Guitarra Gibson Flying Vr','$250,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\ibanez_semiacustica.jpg">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">GISA04</p>
+                                    <p class="inf_align">Guitarra Ibanez Semi Acústica</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$400,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/ibanez_semiacustica.jpg','Guitarra Ibanez Semi Acústica','$400,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="informacion">
+                            <div class="row g-3" id="row">
+                                <div class="col">
+                                    <img src="assets\img\guitarra_acustica.jpg">
+                                </div>
+                                <div class="col">
+                                    <p class="inf_alignT">GAC005</p>
+                                    <p class="inf_align">Guitarra Acústica Concert</p>
+                                </div>
+                                <div class="col">
+                                    <p class="card-text">$450,00</p>
+                                </div>
+                                <div class="col">
+                                    <a onclick="insertar_producto_compra('assets/img/guitarra_acustica.jpg','Guitarra Acústica Concert','$450,00')"><img src="assets\img\agregar.png" alt="carrito"></a>
+                                </div>
+                            </div>
+                        </div>

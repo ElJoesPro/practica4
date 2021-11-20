@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tienda Jonathan Guerra</title>
+        <meta charset="UTF-8">
+        <meta name="title" content="Tienda Jonathan Guerra">
+        <meta name="description" content="Tienda de intrumentos musicales">  
+        <link rel="stylesheet" href="assets\css\bootstrap.min.css" type="text/css">  
+        <link rel="stylesheet" href="assets\css\estilos.css" type="text/css"> 
+    </head>
+    <body>
+        <div class="container-fluid">
+            <di class="titulo_pagina">
+                    <h1><span><img src="assets\img\icons8-keyboard-70.png"></span><span><img src="assets\img\icons8-drum-70.png"></span><span><img src="assets\img\icons8-guitarra-70.png"></span><span class="musical">Musical</span><span class="instruments">Instruments</span><span class="shop">Shop</span></h1>
+            </di>
+            <div class="row g-3">
+                <div class="col" id="col">
+                    <div class="separacion">
+                        <select class="form-select" id="opciones" aria-label="Default select example">
+                            <option value="" id="vacio" selected>Seleccione un instrumento</option>
+                            <option value="1">Guitarras</option>
+                            <option value="2">Baterias</option>
+                            <option value="3">Pianos</option>
+                        </select>
+                    </div>
+                    <div id="separacion_info">
+                    </div>
+                </div>
+                <div class="col" id="col">
+                    <div class="separacion">
+                        <p class="tit_pro_com">PRODUCTOS AGREGADOS AL CARRITO</p>
+                        <div class="row g-3" id="titulos_compra">
+                            <div class="col">
+                                <p>PRODUCTO</p>
+                            </div>
+                            <div class="col">
+                                <p>NOMBRE</p>
+                            </div>
+                            <div class="col">
+                                <p>PRECIO</p>
+                            </div>
+                        </div>
+                        <div id="compra">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </body>
+    <script type="text/javascript" src="assets/js/index.js"></script>
+</html>
+
+<!---->
